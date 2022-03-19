@@ -7,7 +7,7 @@ class PageFilterTrapsHazards extends PageFilter {
 		this._sourceFilter = new SourceFilter();
 		this._typeFilter = new Filter({
 			header: "Type",
-			headerName: "类型",
+			headerName: "型別",
 			items: [
 				"MECH",
 				"MAG",
